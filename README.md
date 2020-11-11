@@ -6,7 +6,7 @@ Jest and testing-library are being used in order to test this application.
 
 ## Running the Application
 
-Open the terminal in the project's root directory and type `yarn` to install the dependencies. If you do not have yarn installed, you can run the `npm i -g yarn` command. After this step, just run the command `yarn run app` to execute the web application.
+Open the terminal in the project's root directory and type `yarn` to install the dependencies. If you do not have yarn installed, you can run the `npm i -g yarn` command. After this step, just run the command `yarn start` to execute the web application locally.
 
 The test files are placed at the same level as the files being tested.
 
