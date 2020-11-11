@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { Button, Flex, Stack, Text, Divider } from '@chakra-ui/core'
-import LabeledText from '../components/LabeledText'
+import LabeledText from 'components/LabeledText'
 import { UserContext } from 'contexts/User'
 import { StepContext } from 'contexts/Step'
 import { updateUserData } from 'api'

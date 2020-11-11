@@ -1,6 +1,6 @@
 # COSI-Group - Front
 
-This is a project developed using TypeScript, React, React Router, Styled Components and Axios.
+This is a project developed using TypeScript, React, React Router, Styled Components, Chakra (design system) and Axios.
 
 Jest and testing-library are being used in order to test this application.
 
