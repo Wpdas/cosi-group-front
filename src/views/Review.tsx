@@ -43,7 +43,11 @@ const Review: React.FC = () => {
 
   return (
     <Flex align="center" justify="center" height="100%" direction="column">
-      <Stack spacing={4} minWidth={['90%', '50%', '35%', '25%']}>
+      <Stack
+        spacing={4}
+        minWidth={['90%', '50%', '35%', '25%']}
+        margin="0 20px"
+      >
         <Text fontSize="xl">Please review your information</Text>
         <LabeledText label="Name">
           {firstName} {surname}
